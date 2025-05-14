@@ -78,7 +78,7 @@ jupyter notebook
 
 2. Open the main analysis notebook:
 ```
-COVID19_Global_Data_Tracker.ipynb
+COVID19_Tracker.ipynb
 ```
 
 ## Example Usage
