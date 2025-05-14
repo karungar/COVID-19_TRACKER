@@ -6,8 +6,7 @@ This repository contains a comprehensive data analysis project that tracks and v
 ## Features
 - Data cleaning and preprocessing of COVID-19 global datasets
 - Time trend analysis of cases, deaths, and vaccinations
-- Country/region comparison across key metrics
-- Interactive visualizations including charts and maps
+- Comparison across three East Asian Countries using key metrics
 - Comprehensive insights and narrative reporting
 
 ## Data Sources
@@ -22,19 +21,18 @@ The project is organized in a step-by-step workflow:
 3. **Data Cleaning**: Preparing and preprocessing data
 4. **Exploratory Data Analysis**: Statistical analysis and trend exploration
 5. **Vaccination Progress Analysis**: Tracking global vaccination campaigns
-6. **Geographic Visualization**: Choropleth maps showing global distributions
-7. **Insights & Reporting**: Key findings and pattern identification
+6. **Insights & Reporting**: Key findings and pattern identification
 
 ## Key Visualizations
 - Line charts tracking cases and deaths over time
-- Comparative analysis of vaccination rollouts across countries
+- Comparative analysis of vaccination rollouts across three East Asia countries
 
 ## Key Insights
 Based on our analysis, we found:
 
 1. China administered approximately 3.5 billion COVID-19 vaccinations by 2023, demonstrating an unprecedented vaccination campaign that dwarfed other countries in raw numbers.
 
-2. The period between April-December 2021 showed the steepest vaccination curves globally, with China administering over 2.5 billion doses during this 8-month window.
+2. The period between April-December 2021 showed the steepest vaccination curves, with China administering over 2.5 billion doses during this 8-month window.
 
 3. Different countries exhibited distinct vaccination patterns - China showed rapid mass deployment, Japan demonstrated sustained gradual growth, while South Korea displayed efficient early rollout followed by a clear plateau.
 
